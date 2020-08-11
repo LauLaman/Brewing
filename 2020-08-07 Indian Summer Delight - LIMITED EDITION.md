@@ -4,7 +4,8 @@
 
 > The SMASH Indian Summer Delight brings a wonderful tatse-explosion to your mouth. This Single Malt and Single Hop beer is very easy te brew. Discover the tropical character of this 5,8% ABV summer ale. Enjoy it, alone or with friends. Cheers!
 
-**Type:** Summer Ale
+**Beer type:** Summer Ale
+**Recipe type:** [All grain kit](https://www.braumarkt.com/en/catalog/product/view/id/4784/s/arsegan-all-grain-kit-indian-summer-delight-ltd-edition/category/753/)
 
 | Unit | Expected value | Actual value |
 | --- | --- | --- |

@@ -21,7 +21,7 @@
 | Weight | Name | Type |
 | --- | --- | --- |
 | 4.7 Kg  | Pale  | Malt |
-| ..  | Mosaic  | Hop pellet|
+| 60,61 gr  | Mosaic  | Hop pellet|
 | 11,5 gr  | Safale US-05 \| Fermentis | Dry yeast|
 | 5,41 gr  | UltraMoss | Clearing Agent |
 
@@ -64,9 +64,9 @@ Amount of water in Ketle
 
 **Dry hop**
 
-| Ingredient | Weight | When |
-| --- | --- | --- |
-| Mosaic | .. | After 7 days of fermentation |
+| Ingredient | Weight | When | Actual
+| --- | --- | --- | --- |
+| Mosaic | 30.05 gr | After 7 days of fermentation | After 5 days of fermentation
 
 
 
@@ -75,3 +75,10 @@ Amount of water in Ketle
 | --- | --- |
 | Bottle | 8 gr/lt |
 | Keg | 4 gr/lt |
+
+
+### Gravity readings
+| Date | Reading |
+| --- | --- |
+| 2020-08-07 | 1,065 |
+| 2020-08-12 | 1,011 |
